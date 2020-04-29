@@ -1,0 +1,63 @@
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 24px;
+    }
+    h2 {
+        font-size: 16px;
+    }
+}
+
+body{
+    margin: 0;
+    background-image: url("starbackground.jpg");
+    background-color: #2f2d52;
+}
+
+header {
+    font-size: 24px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-radius: 21.5px;
+}
+
+div {
+    max-width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    color: skyblue;
+}
