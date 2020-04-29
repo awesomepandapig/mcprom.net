@@ -10,7 +10,7 @@
 body{
     margin: 0;
     background-image: url("https://github.com/awesomepandapig/mcprom.net/blob/master/images/starbackground.jpg?raw=true");
-    background-size: cover;
+    background-size: auto;
     background-color: #2f2d52;
 }
 
